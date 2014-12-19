@@ -1,0 +1,6 @@
+# Notice: Crawling b89.in is allowed for good purpose.
+# If we find any miss behavior or unwanted activity,
+# crawler IP will be blocked.
+
+User-agent: *
+Allow: /
