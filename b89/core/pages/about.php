@@ -270,36 +270,12 @@ if(isset($_POST['send']) AND ($_POST['send'] == 'true')){
 			  <div class="row">
                 <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 					<div class="box-team wow bounceInDown" data-wow-delay="0.1s">
-                    <img src="<?php echo $site;?>img/team/Viral_Joshi.jpg" alt="Viral Joshi" title="Viral Joshi" class="img-responsive" />
-                    <h4>Viral Joshi</h4>
-                    <p>Founder,<br>Senior Web developer,<br>Security Engineer</p>
+                    <img src="<?php echo $site;?>img/team/member.jpg" alt="Firstname Lastname" title="Firstname Lastname" class="img-responsive" />
+                    <h4>Firstname Lastname</h4>
+                    <p>Something,<br>cool he/she does,<br>goes here</p>
 					</div>
                 </div>
-<?php
-/*				
-	                <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s">
-					<div class="box-team wow bounceInDown">
-                    <img src="<?php echo $site;?>img/team/Nandan_Pandya.jpg" alt="Nandan Pandya" title="Nandan Pandya" class="img-responsive" />
-                    <h4>Nandan Pandya</h4>
-                    <p>Mobile App Developer (Coming Soon)</p>
-					</div>
-                </div>
-                <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.5s">
-					<div class="box-team wow bounceInDown">
-                    <img src="<?php echo $site;?>img/team/Kumaran.jpg" alt="Kumaran V R" title="Kumaran V R" class="img-responsive" />
-                    <h4>Kumaran V R</h4>
-                    <p>Security Engineer</p>
-					</div>
-                </div>
-                <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.7s">
-					<div class="box-team wow bounceInDown">
-                    <img src="<?php echo $site;?>img/team/Bhavesh_Patel.jpg" alt="Bhavesh Patel" title="Bhavesh Patel" class="img-responsive" />
-                    <h4>Bhavesh Patel</h4>
-                    <p>Senior Marketing Researcher</p>
-					</div>
-                </div>			
-*/				
-?>				
+				
 				<div>&nbsp;</div><div>&nbsp;</div>
 				<div>&nbsp;</div><div>&nbsp;</div>
 				<div>&nbsp;</div><div>&nbsp;</div>
