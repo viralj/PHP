@@ -22,11 +22,11 @@ where you will need to edit
   $db = new mysqli ('DB_HOST_ADDRESS', 'DB_USER_NAME', 'DB_USER_PASS', 'DB_TABLE_NAME');
   and this code line is to explain what you will need to edit.
   
-Enjoy your own URL Shortner. And this is also build with features like bug report, ad service
+Enjoy your own URL Shortner. And this is also built with features like bug report, ad service
 etc. 
 
 
-BUILD WITH AD SERVICE
+BUILT WITH AD SERVICE
 =====================
 
 To show ads on redirect page, you will need add your advertisement codes on 'redirect.php'
