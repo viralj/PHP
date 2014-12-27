@@ -34,11 +34,21 @@ require 'genfunc.php';
 include 'cron.php';
 include 'db_config_inc.php';
 
+/*
+These codes are to redirect users to domain website.
 
-if($_SERVER['SERVER_NAME'] != 'b89.in'){
-	header("Location: http://b89.in");
+For example, if you have hosted this on vps or dedicated server and
+someone is trying to access website by ip then you can redirect them
+to domain.
+
+http://123.123.123.123 will be redirected to http://site.name
+
+just edit codes given below
+
+if($_SERVER['SERVER_NAME'] != 'site.name'){
+	header("Location: http://site.name");
 }
-
+*/
 
 
 
